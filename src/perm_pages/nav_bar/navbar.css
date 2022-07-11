@@ -1,0 +1,20 @@
+#navBar {
+    background: rgba( 12, 0, 50, 0.5 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 20px );
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    margin-bottom: 10px;
+}
+
+ol {
+    display: inline;
+    text-decoration: none;
+
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+}
+
+ol:hover {
+    color: rgb(51, 0, 211);
+    cursor: url("/src/icons/icons/32x32/staff_01a.png"), pointer;
+}

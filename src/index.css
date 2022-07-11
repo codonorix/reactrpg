@@ -1,0 +1,16 @@
+@font-face {
+  font-family: magicFont;
+  src: url("../src/fonts/EnchantedLand-jnX9.ttf");
+}
+
+html {
+  cursor: url("./icons/icons/32x32/gloves_01a - Copy.png"), pointer;
+}
+
+body {
+  background-color: #1f1f1f;
+  color: white;
+  text-align: center;
+  font-family: magicFont;
+  font-size: xx-large;
+}

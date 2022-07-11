@@ -1,0 +1,17 @@
+@font-face {
+    font-family: membershipFont;
+    src: url("/src/membership_page/fonts/Doctor Glitch.otf");
+}
+
+.heading {
+    font-family: membershipFont;
+}
+
+.userEffect {
+    /*background-image: url("C:\Users\Admin\Downloads\hypdev tasks 2022\temp\reactrpg\src\user_effect\glitter-gifs-get-the-best-gif-on-giphy.gif");*/
+    text-align: center;
+    width:  100px;
+    height: auto;
+    /*object-fit: cover;*/
+    color: magenta;
+}

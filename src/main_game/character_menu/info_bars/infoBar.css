@@ -1,0 +1,9 @@
+.healthBar {
+    background-color: red;
+    border-radius: 30px;
+}
+
+.xpBar {
+    background-color: aquamarine;
+    border-radius: 30px;
+}

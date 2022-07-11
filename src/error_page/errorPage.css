@@ -1,0 +1,13 @@
+.errorMessage {
+    color: red;
+    font-family: "Britannic Bold";
+    font-weight: bolder;
+}
+
+hr {
+    border-top: magenta 5px solid;
+}
+
+#biggerText {
+    font-size: 100px;
+}
